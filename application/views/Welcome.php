@@ -57,8 +57,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                     <th><span>#</span></th>
                                     <th><span>Name</span></a></th>
                                     <th><span>Email</span></a></th>
-                                    <th><span>Date</span></a></th>
                                     <th><span>Gender</span></a></th>
+                                    <th><span>Date</span></a></th>
                                     <th><span>Image</span></th>
                                     <th><span>Action</span></th>
                                 </tr>
@@ -68,8 +68,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                     <th><span>#</span></th>
                                     <th><span>Name</span></a></th>
                                     <th><span>Email</span></a></th>
-                                    <th><span>Date</span></a></th>
                                     <th><span>Gender</span></a></th>
+                                    <th><span>Date</span></a></th>
                                     <th><span>Image</span></th>
                                     <th><span>Action</span></th>
                                 </tr>
