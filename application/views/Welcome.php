@@ -161,13 +161,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                         <div class="form-group">
                                             <label>Name</label>
                                             <input type="text" name="party_name" id="party_name" class="form-control">
-<!--                                            <select class="select12 form-control" name="party_name"
-                                                    id="name">
-                                                <option></option>
-                                            <?php foreach ($party_name as $dt): ?>
-                                                                                                                <option value="<?php echo $dt['reg_id']; ?>"><?php echo $dt['name']; ?></option>
-                                            <?php endforeach; ?>
-                                            </select>-->
                                         </div>
                                     </div>
                                     <div class="col-md-3">
